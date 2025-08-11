@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89305aa391d1c5141bbe1628d930a2c5, type: 3}
+  m_Name: PhysicsTutorials
+  m_EditorClassIdentifier: 
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  ParentContainer: {fileID: 11400000, guid: bd1949e83d260ea4faea386c98db52aa, type: 2}
+  OrderInView: 0
+  BackgroundImage: {fileID: 0}
+  Title:
+    m_Untranslated: Physics Tutorials
+  Subtitle:
+    m_Untranslated: Tutorials that will show you how to implement physics forces
+      and colliders
+  Description:
+    m_Untranslated: 
+  ProjectLayout: {fileID: 0}
+  Sections:
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: Colliders
+    Text:
+      m_Untranslated: This tutorial walks you through how the colliders can be implemented
+        if your game makes use of physics
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: 9e852a4fdf5aefc428ca9f1b722c3407, type: 2}
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: Rigidbody
+    Text:
+      m_Untranslated: This tutorial will show you how to make an object have physics
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: 4c494e0f5207eba46bf85986e3b9b969, type: 2}

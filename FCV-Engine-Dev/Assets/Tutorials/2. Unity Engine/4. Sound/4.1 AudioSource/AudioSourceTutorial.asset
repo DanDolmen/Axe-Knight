@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: AudioSourceTutorial
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: Audio Source Tutorial
+  m_ProgressTrackingEnabled: 1
+  m_LessonId: 2732a4db-6f6c-48fd-ae05-7a8837f0183e
+  m_Version: 0
+  m_SceneManagementBehavior: 0
+  m_Scenes:
+  - {fileID: 102900000, guid: 61d79f049f2172c468f145503feef9e1, type: 3}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 0
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0
+    m_Pivot: {x: 0, y: 0, z: 0}
+    m_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  m_WindowLayout: {fileID: 102900000, guid: 951254c389b351642917f33ec9df1585, type: 3}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: 01a46e3df587f9b4ca806c8487c50a21, type: 2}
+    - {fileID: 11400000, guid: 6f91150a73395ce489e64d5f9b927f05, type: 2}
+    - {fileID: 11400000, guid: ad2b1f6292802b246a6fa98458173f73, type: 2}
+    - {fileID: 11400000, guid: 579e767c23d79e741bb6a6a43d0cb272, type: 2}
+    - {fileID: 11400000, guid: 85b605f895098194b933bc439daf3409, type: 2}
+  CompletionDialog: {fileID: 0}
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  Initiated:
+    m_PersistentCalls:
+      m_Calls: []
+  PageInitiated:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 7745a2f4e18d4ca4187db0b590d6c848, type: 2}
+        m_TargetAssemblyTypeName: RefreshMasking, Assembly-CSharp
+        m_MethodName: StartConstantRefreshing
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  GoingBack:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 7745a2f4e18d4ca4187db0b590d6c848, type: 2}
+        m_TargetAssemblyTypeName: RefreshMasking, Assembly-CSharp
+        m_MethodName: StopConstantRefreshing
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  Completed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 7745a2f4e18d4ca4187db0b590d6c848, type: 2}
+        m_TargetAssemblyTypeName: RefreshMasking, Assembly-CSharp
+        m_MethodName: StopConstantRefreshing
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  Quit:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 7745a2f4e18d4ca4187db0b590d6c848, type: 2}
+        m_TargetAssemblyTypeName: RefreshMasking, Assembly-CSharp
+        m_MethodName: StopConstantRefreshing
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  m_Scene: {fileID: 0}
+  m_TutorialTitle: 
